@@ -4,9 +4,9 @@ This app was built in order to allow users to leverage the contracts enrichment 
 ![alt text](demo.gif 'Title')
 
 # Who, When, Why?
-👨🏾‍💻 Nick Renotte
-📅 Started...a while ago
-❓ Legal Analytics App built using React and Express
+👨🏾‍💻 Nick Renotte <br />
+📅 Started...a while ago<br />
+❓ Legal Analytics App built using React and Express<br />
 
 # How to get it Running
 1. Get your Watson Discovery credentials from your WD Premium instance. 
