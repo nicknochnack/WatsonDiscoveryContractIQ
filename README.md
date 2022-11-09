@@ -1,7 +1,7 @@
 # Watson Discovery ContractIQ 
 This app was built in order to allow users to leverage the contracts enrichment inside of Watson Discovery Premium. The end goal is to provide a unified workflow for contract review and analysis.
 
-![alt text](demofig.gif 'Title')
+![alt text](demo.gif 'Title')
 
 # Who, When, Why?
 👨🏾‍💻 Nick Renotte
@@ -15,4 +15,5 @@ This app was built in order to allow users to leverage the contracts enrichment 
 4. To kick the app off from the root, run `npm run dev`
 
 # Other References
-Understanding Contracts <a href="https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-contracts-schema">
+ <a href="https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-contracts-schema">Understanding Contracts
+</a>
